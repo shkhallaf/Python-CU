@@ -1,1 +1,1 @@
-line 1 in readme file 
+Upload a .txt file with your name here, with your email as its contents.
